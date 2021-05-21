@@ -1,0 +1,1 @@
+when invoked without arguements, the date utility displayes current time and date
